@@ -14,46 +14,57 @@ en altijd op een **telefoon**.
 
 ## Testscenario's
 
-<!-- Neem de scenario's T1–T5 over uit het projectplan. -->
-
 | Code | Scenario | Bijbehorende eis |
 | --- | --- | --- |
-| T1 |  | E |
-| T2 |  | E |
-| T3 |  | E |
-| T4 |  | E |
-| T5 |  | E |
+| T1 | Ga naar het hiphopkanaal | Je kunt naar het hiphopkanaal navigeren |
+| T2 | Open een artikel, lees het en speel het bijbehorende nummer af | Je kunt artikelen lezen en muziek afspelen |
+| T3 | Ga naar een ander artikel en zet daarna de muziek op pauze | Je kunt naar andere artikelen gaan en muziek pauzeren |
+| T4 | Doe T2 opnieuw op een laptop | De website werkt ook op een laptop |
 
 ---
 
 ## Testronde 1: Figma-prototype
 
-**Datum:** <!-- -->
-**Afgenomen door:** <!-- -->
+**Datum:** 25-11-2026
+**Afgenomen door:** Sem de Jongste - @sem103434
 
 ### Proefpersonen
 
 | # | Leeftijd / achtergrond | Apparaat | Extern? |
 | --- | --- | --- | --- |
-| P1 |  |  | ja |
-| P2 |  |  | ja |
-| P3 |  |  | ja |
+| P1 - Thomas Blok | 17 - Nederlands | iMac | ja |
+| P2 | Nog niet ingevuld | Nog niet ingevuld | ja |
+| P3 | Nog niet ingevuld | Nog niet ingevuld | ja |
 
 ### Resultaten per scenario
 
-| Scenario | Geslaagd? (P1/P2/P3) | Tijd | Observaties (letterlijke quotes) |
+| Scenario | Geslaagd? P1 | Tijd | Observaties |
 | --- | --- | --- | --- |
-| T1 |  |  |  |
+| T1 | Geslaagd | 2 sec | Het navigeren naar het hiphopkanaal ging zonder problemen. |
+| T2 | Niet geslaagd | Niet voltooid | Het artikel lezen werkt, maar het afspelen van muziek loopt vast. Ook werkt het bekijken van YouTube-clips niet. |
+| T3 | Niet geslaagd | Niet voltooid | Naar een ander artikel gaan werkt niet. Ook kan de muziek niet worden afgespeeld en gepauzeerd. |
+| T4 | Niet geslaagd | Niet voltooid | De functies werken niet goed op de laptop. |
 
 ### Bevindingen en vervolgacties
 
 | Bevinding | Ernst (hoog/laag) | Actie of ontwerpbesluit | Issue / PR |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| Naar het hiphopkanaal gaan werkt goed. | Laag | Niets aanpassen. | - |
+| Muziek afspelen werkt niet. | Hoog | De muziekspeler verbeteren en controleren. | Nog aanmaken |
+| YouTube-clips werken niet. | Gemiddeld | Controleren waarom de video's niet afspelen. | Nog aanmaken |
+| Naar andere artikelen navigeren werkt niet. | Hoog | De navigatie verbeteren. | Nog aanmaken |
+| Muziek pauzeren werkt niet. | Hoog | De pauzeknop verbeteren. | Nog aanmaken |
+| De website werkt niet goed op een laptop. | Hoog | Het ontwerp en de functies verbeteren voor laptops. | Nog aanmaken |
 
 ### Conclusie en gemaakte keuzes
 
-<!-- Welke eisen (E-codes) zijn aangepast of aangescherpt op basis van deze ronde? -->
+Uit de eerste test blijkt dat het prototype nog niet helemaal goed werkt. Het navigeren naar het hiphopkanaal ging goed, maar bij de andere scenario's kwamen verschillende problemen naar voren.
+
+Het lezen van artikelen werkt, maar muziek afspelen lukt niet. Ook werken de YouTube-video's en het navigeren naar andere artikelen nog niet goed. Daarnaast werkt het prototype niet goed op een laptop.
+
+We gaan deze problemen verbeteren voordat we de volgende testronde uitvoeren. Vooral de muziekspeler, de navigatie tussen artikelen en de werking op een laptop krijgen extra aandacht.
+
+Ons doel is om ervoor te zorgen dat alle scenario's bij de volgende test goed uitgevoerd kunnen worden.
 
 ---
 
