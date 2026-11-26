@@ -8,8 +8,15 @@
 #       [x] Require review from Code Owners
 #   [x] Require status checks to pass before merging → "lint-and-verify"
 *                    @Chris-vs2008 @103603glr @sem103434
+<<<<<<< HEAD
+
+# Specifieke hoedersrollen (iedereen blijft over de hele repo meebouwen en reviewen):
+# /database/           @student-backend @student-1
+# /public/assets/css/  @student-ux @student-2
+=======
  
 # Specifieke hoedersrollen (iedereen blijft over de hele repo meebouwen en reviewen):
 # /database/           @student-backend @student-1
 # /public/assets/css/  @student-ux @student-2
  
+>>>>>>> dae056be583d9b0358ae64cf4e2c579ce6f92437
