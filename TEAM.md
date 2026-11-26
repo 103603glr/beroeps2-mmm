@@ -13,7 +13,7 @@ Iedereen doet mee aan het projectplan en ontwerpt/schrijft code, ook testen we h
 * Lalo: -
 
 ## 3. GitHub & Afspraken
-- Branching:** Niemand commit zonder overleg.
+- Branching: Niemand commit zonder overleg.
 - Pull Requests (PR): Een PR mag pas worden gemerged als minimaal 1 ander teamlid een "Approve" heeft gegeven.
 
 ## 4. De Pre-Mortem (Risico Analyse)
