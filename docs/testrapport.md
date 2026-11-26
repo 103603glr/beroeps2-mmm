@@ -33,8 +33,8 @@ en altijd op een **telefoon**.
 | # | Leeftijd / achtergrond | Apparaat | Extern? |
 | --- | --- | --- | --- |
 | P1 - Thomas Blok | 17 - Nederlands | iMac | ja |
-| P2 | Nog niet ingevuld | Nog niet ingevuld | ja |
-| P3 | Nog niet ingevuld | Nog niet ingevuld | ja |
+| P2 | Chris (komt nog) | Nog niet ingevuld | ja |
+| P3 | Lalo (komt nog) | Nog niet ingevuld | ja |
 
 ### Resultaten per scenario
 
